@@ -1,0 +1,24 @@
+{
+  "name": "protobufts",
+  "version": "0.1.0",
+  "description": "TypeScript models generator from Protocol Buffer definitions for Node.js gRPC",
+  "types": "protobufts.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrwitek/protobufts.git"
+  },
+  "keywords": [
+    "typescript",
+    "protobuf",
+    "nodejs"
+  ],
+  "author": "Piotr Witek <piotrek.witek@gmail.com> (http://piotrwitek.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piotrwitek/protobufts/issues"
+  },
+  "homepage": "https://github.com/piotrwitek/protobufts#readme"
+}
