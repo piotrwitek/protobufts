@@ -1,6 +1,6 @@
 {
   "name": "protobufts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "TypeScript models generator from Protocol Buffer definitions for Node.js gRPC",
   "main": "index.js",
   "types": "protobufts.d.ts",
