@@ -14,7 +14,8 @@
   "keywords": [
     "typescript",
     "protobuf",
-    "nodejs"
+    "proto",
+    "grpc"
   ],
   "author": "Piotr Witek <piotrek.witek@gmail.com> (http://piotrwitek.github.io/)",
   "license": "MIT",
