@@ -1,3 +1,7 @@
+declare module 'grpc' {
+  export = Grpc;
+}
+
 declare namespace Grpc {
   export type Credentials = {};
   export namespace credentials {
