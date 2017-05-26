@@ -1,6 +1,7 @@
+/// <reference types="node" />
 /// <reference path="./grpc.d.ts" />
 
-export declare namespace Protobuf {
+declare namespace Protobufts {
   export type Message = {}
   export type RpcCallback<T> = (err?: Error, resMessage?: T) => void;
 
